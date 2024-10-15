@@ -1,0 +1,8 @@
+PUT http://localhost/Tutorial/index.php?id=1
+Content-Type: application/json
+
+{
+    "nom": "Salade C\u00e9sar Deluxe",
+    "ingredients": ["Laitue", "Poulet grill\u00e9", "Parmesan", "Croutons", "\u0152uf poch\u00e9"],
+    "temps_preparation": 25
+}

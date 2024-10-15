@@ -1,0 +1,8 @@
+POST http://localhost/Tutorial/index.php
+Content-Type: application/json
+
+{
+    "nom": "Salade César",
+    "ingredients": ["Laitue", "Poulet grillé", "Parmesan", "Croutons"],
+    "temps_preparation": 20
+}

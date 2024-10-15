@@ -1,0 +1,8 @@
+POST http://localhost/Tutorial/index.php
+Content-Type: application/json
+
+{
+    "nom": "Spaghetti Bolognese",
+    "ingredients": ["Spaghetti", "Bœuf haché", "Tomates", "Fromage"],
+    "temps_preparation": 30
+}
